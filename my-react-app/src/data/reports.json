@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "title": "Monthly Sales",
+      "date": "March 2024",
+      "value": 12000,
+      "img": "https://images.pexels.com/photos/3183170/pexels-photo-3183170.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "User Growth",
+      "date": "February 2024",
+      "value": 8500,
+      "img": "https://images.pexels.com/photos/3183153/pexels-photo-3183153.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Revenue Summary",
+      "date": "January 2024",
+      "value": 9400,
+      "img": "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Product Performance",
+      "date": "March 2024",
+      "value": 1500,
+      "img": "https://images.pexels.com/photos/4386336/pexels-photo-4386336.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Customer Satisfaction",
+      "date": "February 2024",
+      "value": 95,
+      "img": "https://images.pexels.com/photos/3182773/pexels-photo-3182773.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Website Traffic",
+      "date": "January 2024",
+      "value": 23000,
+      "img": "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg"
+    },
+    {
+      "id": 7,
+      "title": "Marketing Insights",
+      "date": "March 2024",
+      "value": 4500,
+      "img": "https://images.pexels.com/photos/3182812/pexels-photo-3182812.jpeg"
+    },
+    {
+      "id": 8,
+      "title": "New Subscriptions",
+      "date": "February 2024",
+      "value": 3200,
+      "img": "https://images.pexels.com/photos/3184298/pexels-photo-3184298.jpeg"
+    },
+    {
+      "id": 9,
+      "title": "Operational Costs",
+      "date": "January 2024",
+      "value": 7200,
+      "img": "https://images.pexels.com/photos/3184294/pexels-photo-3184294.jpeg"
+    }
+  ]
+  
